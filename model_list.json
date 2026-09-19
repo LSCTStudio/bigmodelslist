@@ -11,7 +11,6 @@
     {"name": "phi3:mini", "desc": "Phi3 Mini 3.8B", "size": "2.3GB"},
     {"name": "deepseek-r1:1.5b", "desc": "DeepSeek‑R1推理 1.5B", "size": "950MB"},
     {"name": "deepseek-r1:3b", "desc": "DeepSeek‑R1推理 3B", "size": "1.8GB"},
-    {"name": "glm4:2b", "desc": "GLM‑4 2B", "size": "1.3GB"},
     {"name": "mistral:7b-instruct-v0.3", "desc": "Mistral 7B轻量", "size": "4.1GB"},
     {"name": "qwen3:7b", "desc": "通义千问3 7B", "size": "4.7GB"},
     {"name": "qwen2.5:7b", "desc": "Qwen2.5 7B", "size": "4.7GB"},
